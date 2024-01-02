@@ -2,13 +2,14 @@
 name = "nlpbased-for-nlp"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Splintdewolfcry"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
 python = ">=3.8,<3.9.7 || >3.9.7,<3.12"
 spacy = "^3.7.2"
 streamlit = "^1.29.0"
+lyricsgenius = "^3.0.1"
 
 
 [build-system]
